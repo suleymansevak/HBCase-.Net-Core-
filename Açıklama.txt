@@ -1,0 +1,26 @@
+HBCaseDbContext.cs  sınıfında  MSSql için server bilgilerinizi yazınız .
+
+Göndermiş olduğum Db Scriptini MSSql de çalıştırınız .
+
+Projeyi başlatınız  .
+
+Swagger sayesinde istediğiniz komutu ilgili parametreleri vererek çalıştırabilirsiniz .
+
+Aşağıdaki gibi parametreleri vererek test edebilirsiniz .
+
+Campaign----
+/create_campaign   :  Name , ProductCode , Duration , PriceManupilationLimit , TargetSalesCount , Status 
+
+/get_campaign_info :  Name
+
+/increase_time     :  campaignName , hour
+
+
+Order ----------
+/create_order      :  ProdcutCode , Quantity
+
+
+Product -----------
+/get_product_info  : productCode
+
+/create_product    : ProductCode , Price , Stock 
