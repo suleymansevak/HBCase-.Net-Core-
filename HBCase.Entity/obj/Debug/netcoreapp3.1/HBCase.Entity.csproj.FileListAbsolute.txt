@@ -1,0 +1,12 @@
+D:\Projects\HBCase\HBCase.Entity\bin\Debug\netcoreapp3.1\HBCase.Entity.deps.json
+D:\Projects\HBCase\HBCase.Entity\bin\Debug\netcoreapp3.1\HBCase.Entity.dll
+D:\Projects\HBCase\HBCase.Entity\bin\Debug\netcoreapp3.1\HBCase.Entity.pdb
+D:\Projects\HBCase\HBCase.Entity\bin\Debug\netcoreapp3.1\HBCase.Common.dll
+D:\Projects\HBCase\HBCase.Entity\bin\Debug\netcoreapp3.1\HBCase.Common.pdb
+D:\Projects\HBCase\HBCase.Entity\obj\Debug\netcoreapp3.1\HBCase.Entity.csprojAssemblyReference.cache
+D:\Projects\HBCase\HBCase.Entity\obj\Debug\netcoreapp3.1\HBCase.Entity.csproj.CoreCompileInputs.cache
+D:\Projects\HBCase\HBCase.Entity\obj\Debug\netcoreapp3.1\HBCase.Entity.AssemblyInfoInputs.cache
+D:\Projects\HBCase\HBCase.Entity\obj\Debug\netcoreapp3.1\HBCase.Entity.AssemblyInfo.cs
+D:\Projects\HBCase\HBCase.Entity\obj\Debug\netcoreapp3.1\HBCase.Entity.csproj.CopyComplete
+D:\Projects\HBCase\HBCase.Entity\obj\Debug\netcoreapp3.1\HBCase.Entity.dll
+D:\Projects\HBCase\HBCase.Entity\obj\Debug\netcoreapp3.1\HBCase.Entity.pdb

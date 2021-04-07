@@ -1,0 +1,16 @@
+D:\Projects\HBCase\HBCase.Business\bin\Debug\netcoreapp3.1\HBCase.Business.deps.json
+D:\Projects\HBCase\HBCase.Business\bin\Debug\netcoreapp3.1\HBCase.Business.dll
+D:\Projects\HBCase\HBCase.Business\bin\Debug\netcoreapp3.1\HBCase.Business.pdb
+D:\Projects\HBCase\HBCase.Business\bin\Debug\netcoreapp3.1\HBCase.Common.dll
+D:\Projects\HBCase\HBCase.Business\bin\Debug\netcoreapp3.1\HBCase.Data.dll
+D:\Projects\HBCase\HBCase.Business\bin\Debug\netcoreapp3.1\HBCase.Entity.dll
+D:\Projects\HBCase\HBCase.Business\bin\Debug\netcoreapp3.1\HBCase.Data.pdb
+D:\Projects\HBCase\HBCase.Business\bin\Debug\netcoreapp3.1\HBCase.Entity.pdb
+D:\Projects\HBCase\HBCase.Business\bin\Debug\netcoreapp3.1\HBCase.Common.pdb
+D:\Projects\HBCase\HBCase.Business\obj\Debug\netcoreapp3.1\HBCase.Business.csprojAssemblyReference.cache
+D:\Projects\HBCase\HBCase.Business\obj\Debug\netcoreapp3.1\HBCase.Business.csproj.CoreCompileInputs.cache
+D:\Projects\HBCase\HBCase.Business\obj\Debug\netcoreapp3.1\HBCase.Business.AssemblyInfoInputs.cache
+D:\Projects\HBCase\HBCase.Business\obj\Debug\netcoreapp3.1\HBCase.Business.AssemblyInfo.cs
+D:\Projects\HBCase\HBCase.Business\obj\Debug\netcoreapp3.1\HBCase.Business.csproj.CopyComplete
+D:\Projects\HBCase\HBCase.Business\obj\Debug\netcoreapp3.1\HBCase.Business.dll
+D:\Projects\HBCase\HBCase.Business\obj\Debug\netcoreapp3.1\HBCase.Business.pdb

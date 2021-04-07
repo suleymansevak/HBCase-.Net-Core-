@@ -1,0 +1,17 @@
+D:\Projects\HBCase\HBCase.Data\bin\Debug\netcoreapp3.1\HBCase.Data.deps.json
+D:\Projects\HBCase\HBCase.Data\bin\Debug\netcoreapp3.1\HBCase.Data.runtimeconfig.json
+D:\Projects\HBCase\HBCase.Data\bin\Debug\netcoreapp3.1\HBCase.Data.runtimeconfig.dev.json
+D:\Projects\HBCase\HBCase.Data\bin\Debug\netcoreapp3.1\HBCase.Data.dll
+D:\Projects\HBCase\HBCase.Data\bin\Debug\netcoreapp3.1\HBCase.Data.pdb
+D:\Projects\HBCase\HBCase.Data\bin\Debug\netcoreapp3.1\HBCase.Common.dll
+D:\Projects\HBCase\HBCase.Data\bin\Debug\netcoreapp3.1\HBCase.Entity.dll
+D:\Projects\HBCase\HBCase.Data\bin\Debug\netcoreapp3.1\HBCase.Common.pdb
+D:\Projects\HBCase\HBCase.Data\bin\Debug\netcoreapp3.1\HBCase.Entity.pdb
+D:\Projects\HBCase\HBCase.Data\obj\Debug\netcoreapp3.1\HBCase.Data.csprojAssemblyReference.cache
+D:\Projects\HBCase\HBCase.Data\obj\Debug\netcoreapp3.1\HBCase.Data.csproj.CoreCompileInputs.cache
+D:\Projects\HBCase\HBCase.Data\obj\Debug\netcoreapp3.1\HBCase.Data.AssemblyInfoInputs.cache
+D:\Projects\HBCase\HBCase.Data\obj\Debug\netcoreapp3.1\HBCase.Data.AssemblyInfo.cs
+D:\Projects\HBCase\HBCase.Data\obj\Debug\netcoreapp3.1\HBCase.Data.csproj.CopyComplete
+D:\Projects\HBCase\HBCase.Data\obj\Debug\netcoreapp3.1\HBCase.Data.dll
+D:\Projects\HBCase\HBCase.Data\obj\Debug\netcoreapp3.1\HBCase.Data.pdb
+D:\Projects\HBCase\HBCase.Data\obj\Debug\netcoreapp3.1\HBCase.Data.genruntimeconfig.cache
