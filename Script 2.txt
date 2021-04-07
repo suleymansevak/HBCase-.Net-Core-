@@ -1,0 +1,30 @@
+USE [HBCase]
+GO
+
+INSERT INTO [dbo].[Products]
+           ([ProductCode]
+           ,[Price]
+           ,[Stock]
+           ,[CurrentPrice])
+     VALUES
+           ('P1',100, 1000, 100)
+GO
+
+
+
+
+
+GO
+
+INSERT INTO [dbo].[Campaigns]
+           ([Name]
+           ,[ProductCode]
+           ,[Duration]
+           ,[PriceManupilationLimit]
+           ,[TargetSalesCount]
+           ,[Status]
+           ,[TotalSales]
+           ,[Time])
+     VALUES
+           ('C1','P1',5,20,100,1,0,'0001-01-01 00:00:00.0000000')
+GO
